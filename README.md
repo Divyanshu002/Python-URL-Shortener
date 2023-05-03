@@ -1,4 +1,4 @@
-# Python-URL-Shortener
+# Python URL Shortener
 
 This is a simple Python script that allows you to shorten URLs using the TinyURL API. The script prompts the user to enter a long URL and then uses the pyshorteners library to interface with the TinyURL API and shorten the URL. The resulting shortened URL is printed to the console, and the script also includes additional features such as copying the shortened URL to the clipboard and opening it in a web browser.
 
