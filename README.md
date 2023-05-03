@@ -11,9 +11,9 @@ To use the script, you will need to sign up for a TinyURL API key at https://tin
 # Prerequisites
 
 To use the script, you will need to have Python installed on your system. You will also need to install the following libraries:
-pyshorteners, 
-pyperclip, 
-webbrowser
+- pyshorteners 
+- pyperclip
+- webbrowser
 
 
 # Usage
